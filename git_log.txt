@@ -1,2 +1,2 @@
-Commit hash: 31249c3473afa5a987b6ee56c58d81dab00de5e3
+Commit hash: a42c38f1316089a499bccdd80e3014f842a1d252
 Git repository: https://github.com/vijay-weberon/playwright.git
